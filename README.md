@@ -6,11 +6,6 @@
 
 ### I'm Brenda, a electrical engineer and programmer from Brazil.
 
-<div>
-  <a href="https://github.com/brenda1602">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brenda1602&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-
 ## Technologies 
 <div style="display: inline-block">
   <img align="center" alt="ROS" height="30" src="http://prerelease.ros.org/static/images/noetic.png">
